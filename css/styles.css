@@ -1,5 +1,5 @@
 div{
-    background-image: linear-gradient(#ffffff, #EEEEEE);
+    background-image: linear-gradient(#ffffff, #f0f0f0);
 }
 h1{
     color:#000000;
@@ -39,9 +39,6 @@ p1{
     font-size: 13px;
 }
 
-.email, .contact{
-    text-align: center;
-}
 .contact{
     border-radius: 1px;
     border-style: double;
@@ -55,4 +52,10 @@ p1{
 h3{
     font-size: 20px;
     font-style: inherit;
+}
+.project{
+    text-align: left;
+}
+.email{
+    font-weight: bolder;
 }
